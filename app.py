@@ -27,7 +27,7 @@ df = pd.DataFrame({ 'A': [1, 2, 3], 'B': [4, 5, 6] })
 analysis = spreadsheet(
     df,
     df_names=['df'],
-    import_folder='datasets',
+    import_folder='data',
     return_type='analysis'
 )
 
