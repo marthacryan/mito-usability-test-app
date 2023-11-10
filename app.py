@@ -11,5 +11,3 @@ analysis = spreadsheet(
     import_folder='data',
     return_type='analysis'
 )
-
-
